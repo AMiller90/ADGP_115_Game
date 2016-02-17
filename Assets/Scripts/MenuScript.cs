@@ -64,6 +64,9 @@ public class MenuScript : MonoBehaviour {
     public void HowToPress()
     {//Enables the howtoMenu
         howtoMenu.enabled = true;
+        //Disables the Play and Exit Buttons
+        playText.enabled = false;
+        exitText.enabled = false;
     }
 
     //When You Click The Play Button
