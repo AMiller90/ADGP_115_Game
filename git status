@@ -1,0 +1,262 @@
+[33mcommit 90d4a15c345f634ed8b25c910d17785b1912db57[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Feb 22 17:15:33 2016 -0600
+
+    Readded file
+
+[33mcommit 37d345b48ef0a5f6cd9708bad1c076f81b62ca9e[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Feb 22 17:01:45 2016 -0600
+
+    Cleaning out folder
+    
+    Removed a text file that had nothing to do with project
+
+[33mcommit 567db61d399101d8df8e2351706622270febf113[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Wed Feb 17 11:34:23 2016 -0600
+
+    Update Script
+
+[33mcommit 50fc1bf35bd34358954e6f82bd5818d1d57950f5[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Tue Feb 16 13:12:30 2016 -0600
+
+    Update the How To Menu
+    
+    Changed the text for the Player 1 and Player to Attack buttons in the
+    How To Menu
+
+[33mcommit c308c59b45cd347d6c2eef42d94339c535ba2588[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Tue Feb 16 11:48:29 2016 -0600
+
+    P2 Shoot button Change
+    
+    P2 Shooter button is now p
+
+[33mcommit b4d54fd334e64889211ef8df9d8a3dfcfc1c8a3f[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Tue Feb 16 11:38:32 2016 -0600
+
+    Change p2 Shoot button
+
+[33mcommit 765bcc215c46f055805eb6cc710bf0c248e0dd4a[m
+Author: Andrew Miller <Andrew.Miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Feb 15 17:20:31 2016 -0600
+
+    Fixed spelling errors
+    
+    Fixed Spelling Errors and Added a Variable for counting waves.
+    Renamed canvas names to be more relative to content
+
+[33mcommit 8e92383844df53505ee7742e66b694aa5f692e1d[m
+Author: Andrew Miller <Andrew.Miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Feb 15 16:29:34 2016 -0600
+
+    Changed Wave Index to start back at 0
+
+[33mcommit 75d9486a6e64ee068bc1225e44dff8439be4379c[m
+Author: Andrew Miller <Andrew.Miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Feb 15 16:06:44 2016 -0600
+
+    Added Wave Text
+    
+    The Current Wave Number Will Now Be Displayed On The Screen During
+    Gameplay
+
+[33mcommit 164f3181ab21f6ceab7917f2a787c58fe510a923[m
+Author: Andrew Miller <Andrew.Miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Feb 15 12:44:55 2016 -0600
+
+    Added a Main Menu Button
+    
+    Allows User to click this button during the pause menu and/or at game
+    end to bring user back to Main Menu Screen.
+
+[33mcommit 6b43684dd67d99b23bb21d02f58473b3a3b95497[m
+Author: Andrew Miller <Andrew.Miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Fri Feb 12 15:48:03 2016 -0600
+
+    Changed camera position a little bit
+
+[33mcommit 8eff67785e699de09e7213b444d50eabb011ad1b[m
+Merge: ebd798f 02941f7
+Author: WillMon <w.montero34@gmail.com>
+Date:   Fri Feb 12 11:44:52 2016 -0600
+
+    Merge pull request #6 from AMiller90/master
+    
+    Master
+
+[33mcommit ebd798fc277fe2f6996f334385a0c0845d38694b[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Fri Feb 12 11:22:43 2016 -0600
+
+    Will Mon 10 Commit
+    
+    Committing last changes. Debugs and ERRORS have be done. Committing
+    final testing and any other edited scripts
+
+[33mcommit 02941f751f4a88833cfbba5e2f89b248d3a9db29[m
+Merge: 0908ab6 6499c4f
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Tue Feb 2 14:51:04 2016 -0600
+
+    Merge remote-tracking branch 'refs/remotes/Will/master'
+
+[33mcommit 6499c4fa5702cd46fba60fc7c01167db6cd2c097[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Tue Feb 2 14:37:06 2016 -0600
+
+    Will Mon 9th Commit
+    
+    Completed enemy wall, health script and slider.
+    Added a Play again menu.
+    Added check statement to see who wins the game.
+    Players and enemies now take damage and get destroyed.
+
+[33mcommit 509afe1c6c7b2463830d927da2b01acb306fc500[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Fri Jan 29 17:15:00 2016 -0600
+
+    Fix ray casts
+    
+    The ray was not casting upon firing because the timer variable was never
+    initialized in the player shooting script. The player now shoots...also
+    if you want to hit the enemies..then the enemies need to be bigger OR
+    the gun needs to be lowered on the players
+
+[33mcommit c88df281429d12cf675171eae7f725b3902094d4[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Fri Jan 29 16:18:10 2016 -0600
+
+    will Mon 8th Commit
+    
+    Worked on Shooting Script, Tryed fixing Roraion form PlayerMovemnet
+    Script.
+
+[33mcommit 47be4f8f05a6b0b90e92f343153eac437da9362a[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Thu Jan 28 16:55:46 2016 -0600
+
+    Will Mon 7th Commit
+    
+    Did Enemy Spawn, Gun, GunBarrel and Shooting.
+
+[33mcommit 6a85bda07f40778fa8685b4bb51d425b977a358a[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Wed Jan 27 17:54:03 2016 -0600
+
+    Will Mon 6th Commit Remake
+    
+    Added: Enemy Attack  Script, Enemy Move Script and Enemy Health Script.
+
+[33mcommit 0908ab692e4b2fec6abfc11d5ff81f2ae49ab93f[m
+Merge: 4594b0c b507750
+Author: WillMon <w.montero34@gmail.com>
+Date:   Wed Jan 27 16:35:00 2016 -0600
+
+    Merge remote-tracking branch 'Andrew/master'
+
+[33mcommit 4594b0c815616b764fd4593de39f402bb5c2b0e8[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Wed Jan 27 16:34:33 2016 -0600
+
+    Fixed my mess up
+
+[33mcommit b519f06cfede4b9cacd1dced6151954f44005455[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Wed Jan 27 16:34:01 2016 -0600
+
+    Revert "Will Mon 5th Commit"
+    
+    This reverts commit 7aa1664d3ebf06663d6bc1e4f3c222c1746b8c56.
+
+[33mcommit bab99d11658734cd9639da3458477ed0d2dc7d94[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Wed Jan 27 16:33:58 2016 -0600
+
+    Revert "Will Mon 6th Commit"
+    
+    This reverts commit 42f6067289bc63a525f92a49c8f6a3129a95949c.
+
+[33mcommit 42f6067289bc63a525f92a49c8f6a3129a95949c[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Wed Jan 27 16:17:45 2016 -0600
+
+    Will Mon 6th Commit
+    
+    Finished Enemy Movements, Enemy Health Script and Enemy Attack Script.
+
+[33mcommit b507750d7f6474b02f0d7fe961e33c212d95962f[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Tue Jan 26 17:39:27 2016 -0600
+
+    Added Comments To Code
+
+[33mcommit 71d2943db8eb3b23b97d0eadeebde88de12434fd[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Tue Jan 26 11:30:19 2016 -0600
+
+    Added Scripts, Background Images And A Pause
+    
+    By pressing space bar in game the game will be paused.
+    Added A Pause Script.
+    Added An InGames Menu Script.
+    Added A Background image to the Main Menu And Welcome Menus.
+    Updated the How To Menu.
+
+[33mcommit d17e823e940bf0d972d36f9177cf059906f8a005[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Jan 25 18:00:22 2016 -0600
+
+    Added A How To Menu
+    
+    Added A How to Menu For The Player To Read Instructions
+
+[33mcommit 7aa1664d3ebf06663d6bc1e4f3c222c1746b8c56[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Mon Jan 25 17:33:23 2016 -0600
+
+    Will Mon 5th Commit
+    
+    Added Scenes to Main_Scene Players. Tested Movement
+
+[33mcommit 2ffe611745df0c52b6e5b0f939fbd92f43e81112[m
+Merge: 7495297 6e53caa
+Author: WillMon <w.montero34@gmail.com>
+Date:   Mon Jan 25 16:40:44 2016 -0600
+
+    Merge pull request #4 from AMiller90/master
+    
+    Master
+
+[33mcommit 749529721b94a40134c804c7c3207d2ba851c0ca[m
+Author: WillMon <w.montero34@gmail.com>
+Date:   Mon Jan 25 16:38:42 2016 -0600
+
+    Will Mon 4th Commit
+    
+    Remade PlayerMovement Scrips for both players
+
+[33mcommit 6e53caaebc886f9ecf8f3c5bc0f5a62c2dad0eeb[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Jan 25 16:36:31 2016 -0600
+
+    Added Quit Menu
+    
+    Added Quit Menu During Game Play When The Escape Button Is Pressed
+
+[33mcommit 4149734c41888edd6e1bcffeb1565bc3929917b9[m
+Author: Andrew Miller <andrew.miller@LAF-H1-8FDBB6.lafa.ad.aie.edu>
+Date:   Mon Jan 25 14:31:33 2016 -0600
+
+    movement script
+
+[33mcommit 4614d1413c5590e6e9312393b39e26072459518c[m
+Merge: a9a30e1 f852fa6
+Author: WillMon <w.montero34@gmail.com>
+Date:   Mon Jan 25 12:50:30 2016 -0600
+
+    Merge remote-tracking branch 'Andrew/ma
